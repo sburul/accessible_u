@@ -22,6 +22,12 @@
   * Main menu
   */
 
+.navbar-dark .navbar-nav .nav-link {
+    color: lightgreen;
+    text-decoration: none;
+}
+
+
 .navbar-nav a:focus {
 	outline: 1px dotted white;
 }
